@@ -5,7 +5,7 @@ here = pathlib.Path(__file__).parent.resolve()
 long_description = (here / 'README.md').read_text(encoding='utf-8')
 
 setup(
-    name='FTPS3',
+    name='FTPtoS3',
     version='0.1.1',
     description='Package for transferring huge files from FTP to S3',
     long_description=long_description,
