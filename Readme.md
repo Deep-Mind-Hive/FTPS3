@@ -12,7 +12,7 @@ After creating the object we can use `uploadS3` method to upload the file to S3.
 ## Installation
 Installation is recommended via pip for Python 3.
 ```python
-pip install FTPS3
+pip install FTPtoS3
 ```
 The package can then be imported using:
 ```python
